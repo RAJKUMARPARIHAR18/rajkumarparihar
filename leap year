@@ -1,0 +1,9 @@
+var year = 1980
+if year%==4 {
+   if year % 100==0 && year % 400==0{
+       print("\(year) is a leap year")
+   }else{
+       print("\(year) is a leap year")
+   }else{
+       print("\(year) is not a leap year")
+   }
