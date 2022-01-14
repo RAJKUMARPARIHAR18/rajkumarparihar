@@ -1,0 +1,8 @@
+func number(number:int){
+if number%2==0{
+print("\(number) is an even number");
+}else{
+print("\(number) is an odd number")
+}
+}
+number(number:200)
