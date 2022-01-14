@@ -1,0 +1,7 @@
+let number = 15
+if number % 7 ==0 {
+   print("\(number) is even")
+}
+else{
+   print("\(number) is odd)
+}
