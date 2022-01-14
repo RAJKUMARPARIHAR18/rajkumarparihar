@@ -1,0 +1,12 @@
+func checkleapyear(year:int){
+if year%4==0{
+if year%100==0 && year%400==0{
+print("\(year) is a leap year")
+}else{
+print("\(year) is a leap year")
+}
+}else{
+print("\(year) is not a leap year")
+}
+}
+checkleapyear(year:1980)
