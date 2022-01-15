@@ -1,3 +1,0 @@
-let matchOne = 11
-let matchTwo = 22
-print("score in matchOne is\(matchOne) and matchTwo score is\(matchTwo) and total score is \(matchOne+matchTwo")
