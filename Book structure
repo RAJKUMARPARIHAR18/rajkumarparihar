@@ -1,0 +1,8 @@
+struct Book {
+    var title: String
+    var pages: Int
+    var author: String
+}
+let mybook = Book(title:"Bhagvatgeeta",pages:500,author:"krishna")
+
+print(mybook)
