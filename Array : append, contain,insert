@@ -1,7 +1,7 @@
-var names = ["Virat","Rohit","Rahul","Hardik"]
+var names = ["Sachin","Rohit","Rahul","Hardik"]
 names.append("Dhoni")
     print(names)
-if names.contains("Virat")
+if names.contains("Sachin")
 {
     print("TRUE")
 }
