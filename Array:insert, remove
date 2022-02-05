@@ -1,0 +1,9 @@
+var names = ["Sachin","Rohit","Rahul","Hardik"]
+names.insert("Dhoni" ,at:3)
+print("Updated Names: \(names)")
+names.removeLast()
+print(names)
+names.remove(at:3)
+print(names)
+names.removeAll()
+print(names)
