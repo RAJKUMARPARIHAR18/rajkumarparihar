@@ -1,0 +1,14 @@
+var percentage = 70
+switch percentage{
+    case  90..<100:
+      print("Grade Obtain is A.")
+    case 80..<90:
+      print("Grade Obtain is B.")
+    case 70..<80:
+      print("Grade Obtain is C.")
+    case  50..<70:
+      print("Grade Obtain is D.")  
+      
+    default:
+      print("Grade Obtain is F.")
+}
